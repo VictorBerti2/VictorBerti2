@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🎈
 
-<!--
-**VictorBerti2/VictorBerti2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bertie
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizon esse espaço para minhas organização e compartilhamento de meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+
+00001105237369sp@al.educacao.sp.gov.br
+
+@y_victorbertie
+
+![](https://media.tenor.com/J01NX0ikmNwAAAAM/ricardo-flick-dance.gif)
